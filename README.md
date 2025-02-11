@@ -1,4 +1,4 @@
-# Awesome-Human-Centric-Foundation-Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  
+# Awesome-Human-Centric-Foundation-Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HumanCentricModels.Awesome-Human-Centric-Foundation-Models)
 
 ## 🏠 About
 Here is a curated list of papers about **H**uman-**c**entric **F**oundation **M**odels (**HcFM**) with strong generalization, board applicability, and high fidelity.
