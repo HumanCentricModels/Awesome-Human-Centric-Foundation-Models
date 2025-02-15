@@ -86,6 +86,7 @@ The repository is updated regularly.  If you find it useful, please kindly star 
 - [Human-Centric Representation Learning Workshop at AAAI 2024](https://hcrl-workshop.github.io/2024/schedule.html)
 - [Foundation Models for 3D Humans Workshop at ECCV 2024](https://human-foundation.github.io/workshop-eccv-2024/)
 - [The 5th International Workshop on Human-centric Multimedia Analysis at ACM MM24](https://hcma2024.github.io/)
+- [The 1st Workshop on Humanoid Agents](https://humanoid-agents.github.io/)
 
 ## License 
 Awesome Human-centric foundation models is released under the [MIT license](./LICENSE).
@@ -94,14 +95,18 @@ Awesome Human-centric foundation models is released under the [MIT license](./LI
 We're very grateful to the repository creators of "[Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D)" and "[Awesone-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D)" for their well-organized template, which helped us structure our survey paper's GitHub repository.
 
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # (If you find this project useful in your research, please consider citing:)
+If you find this project useful in your research, please consider citing:
 
-[//]: # (```BibTeX)
-
-[//]: # ()
-[//]: # (```)
+```BibTeX
+@article{tang2025human,
+  title={Human-Centric Foundation Models: Perception, Generation and Agentic Modeling},
+  author={Tang, Shixiang and Wang, Yizhou and Chen, Lu and Wang, Yuan and Peng, Sida and Xu, Dan and Ouyang, Wanli},
+  journal={arXiv preprint arXiv:2502.08556},
+  year={2025}
+}
+```
 
 ## Contact
 contact: `tangshixiang2016@gmail.com` and `wy024@ie.cuhk.edu.hk`.  
